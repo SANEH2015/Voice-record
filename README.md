@@ -1,3 +1,4 @@
+<img src="https://socialify.git.ci/SANEH2015/Voice-record/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Voice-record" width="640" height="320" />
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
